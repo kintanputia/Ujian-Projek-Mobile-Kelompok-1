@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Portal Akademik Universitas Andalas</string>
+    <string name="title_activity_home2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_matkul">Mata Kuliah</string>
+    <string name="title_krs">KRS</string>
+    <string name="title_khs">KHS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
